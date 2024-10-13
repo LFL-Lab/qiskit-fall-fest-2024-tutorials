@@ -6,13 +6,13 @@ The repository with `SQuADDS` tutorials for Qiskit Fall Fest 2024
 
 The repository will be updated with the relevant materials on the day of the tutorials
 
-## Tutorial 1: Introduction to SQuADDS (14/10/24 11 AM EST)
+## Tutorial 1: Introduction to SQuADDS (10/14/24 11 AM EST)
 
 
-## Tutorial 2: Designing a "fab-ready" chip with SQuADDS (15/10/24 11 AM EST)
+## Tutorial 2: Designing a "fab-ready" chip with SQuADDS (10/15/24 11 AM EST)
 
 
-## Tutorial 3: Machine Learning Interpolations using SQuADDS (16/10/24 11 AM EST)
+## Tutorial 3: Machine Learning Interpolations using SQuADDS (10/16/24 11 AM EST)
 
 # Communication
 
