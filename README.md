@@ -14,6 +14,15 @@ The repository will be updated with the relevant materials on the day of the tut
 
 ## Tutorial 3: Machine Learning Interpolations using SQuADDS (16/10/24 11 AM EST)
 
+# Communication
+
+## GitHub Discussion Space
+
+We encourage you to join our [discussion space](https://github.com/LFL-Lab/SQuADDS/discussions/categories/qiskit-fall-fest-2024) on GitHub. It's the designated place to ask questions, share ideas, and engage with the [qiskit-fall-fest-2024](https://superconductingquantumhardware.framer.website/) community.
+
+## Discord Server
+
+For more real-time conversations and collaboration, join the **SuperConducting Quantum Community** on Discord, created by Waqar.
 
 ---
 
