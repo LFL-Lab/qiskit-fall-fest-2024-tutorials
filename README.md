@@ -8,9 +8,10 @@ The repository will be updated with the relevant materials on the day of the tut
 
 ## Tutorial 1: Introduction to SQuADDS (10/14/24 11 AM EST)
 
+Jupyter Notebook: [Tutorial_1_Introduction_to_SQuADDS.ipynb](Tutorial-1_Introduction_to_SQuADDS.ipynb)
+Presentation: [A Quick Intro to SQuADDS](presentations/tutorial1.pptx)
 
 ## Tutorial 2: Designing a "fab-ready" chip with SQuADDS (10/15/24 11 AM EST)
-
 
 ## Tutorial 3: Machine Learning Interpolations using SQuADDS (10/16/24 11 AM EST)
 
