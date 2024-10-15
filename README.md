@@ -14,7 +14,7 @@ The repository will be updated with the relevant materials on the day of the tut
 
 ## Tutorial 2: Designing a "fab-ready" chip with SQuADDS (10/15/24 11 AM EST)
 
-- Jupyter Notebook: [Tutorial_2_Designing_a_fab_ready_chip_with_SQuADDS.ipynb](Tutorial-2_Designing_a_fab_ready_chip_with_SQuADDS.ipynb)
+- Jupyter Notebook: [Tutorial-2_Designing_a_Chip_with_SQuADDS.ipynb)](Tutorial-2_Designing_a_Chip_with_SQuADDS.ipynb)
 
 ## Tutorial 3: Machine Learning Interpolations using SQuADDS (10/16/24 11 AM EST)
 
