@@ -18,6 +18,10 @@ The repository will be updated with the relevant materials on the day of the tut
 
 ## Tutorial 3: Machine Learning Interpolations using SQuADDS (10/16/24 11 AM EST)
 
+- Jupyter Notebook: [Tutorial-3_ML_interpolation_in_SQuADDS.ipynb](Tutorial-3_ML_interpolation_in_SQuADDS.ipynb)
+
+- Presentation: [Motivation for ML Interpolations](presentations/tutorial3.pptx)
+
 # Communication
 
 ## GitHub Discussion Space
